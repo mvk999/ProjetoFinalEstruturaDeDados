@@ -1,4 +1,5 @@
 # Sistema de Controle de Registros de Atletas
+Para execução do "a.exe" é necessário que o arquivo .csv esteja na mesma pasta.
 
 ## Colaboradores
 - **Fábio Damas Valim**  
